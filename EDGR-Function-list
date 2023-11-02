@@ -1,0 +1,11 @@
+## Edgar function list
+
+edgar_functions <- c(
+  "BrowseEdgar",
+  "CreateEdgar",
+  "DeleteEdgar",
+  "GetEdgar",
+  "ListEdgar",
+  "SearchEdgar",
+  "UpdateEdgar"
+)
